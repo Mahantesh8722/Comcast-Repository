@@ -11,11 +11,11 @@ public class CampaignTest {
 
 		@Test(groups = "regressionTest")
 		public void ModifyCampaignTest() {
-			System.out.println("===Campaign Modified sucessfully=====");
+		System.out.println("===Campaign Modified sucessfully=====");
 		}
 		
 		@Test(groups = "regressionTest")
 		public void DeleteCampaignTest() {
-			System.out.println("===Campaign Deleted=====");
+		System.out.println("===Campaign Deleted=====");
 		}
 	}
